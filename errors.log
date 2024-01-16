@@ -1,10 +1,1 @@
-{
-  message: 'Probando error error',
-  level: 'error',
-  timestamp: '2024-01-15T23:55:24.113Z'
-}
-{
-  message: 'Probando error fatal',
-  level: 'fatal',
-  timestamp: '2024-01-15T23:55:24.115Z'
-}
+
